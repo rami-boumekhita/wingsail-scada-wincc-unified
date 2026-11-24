@@ -134,4 +134,4 @@ Avoid publishing passwords, credentials, real customer/device identifiers, confi
 
 ## Development context
 
-Built as a personal hands-on WinCC Unified / PLC simulation project in November 2026. All screenshots are from the author's development/demo environment.
+Built as a personal hands-on WinCC Unified / PLC simulation project in November 2026. All screenshots are from the my development.
