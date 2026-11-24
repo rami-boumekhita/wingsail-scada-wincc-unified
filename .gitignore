@@ -1,0 +1,12 @@
+# Local engineering temporary / backup files
+*.bak
+*.tmp
+*.temp
+*.log
+~$*
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc
+
+# Do not ignore .zap21 archives by default: add the curated project archive explicitly.
